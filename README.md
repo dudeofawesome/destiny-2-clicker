@@ -1,6 +1,6 @@
 # Destiny 2 Clicker
 
-Executables in releases tab
+Executables in [releases tab](https://github.com/dudeofawesome/destiny-2-clicker/releases)
 
 ## Fracteline Clicker
 1. Run `fracteline-clicker.exe`
